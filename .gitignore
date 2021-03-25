@@ -1,0 +1,6 @@
+#ignore current type of files
+*.db
+*.log
+#ignore current directories
+target/
+bin/
